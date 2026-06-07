@@ -1,6 +1,6 @@
 # Cryptocurrency Landing Page &nbsp; ![badge](https://img.shields.io/badge/HTML%20and%20CSS-Project5-green)
 
-[![](https://img.shields.io/badge/Live-Link-blue)](https://cryptocurrency-landingpage.netlify.app/)
+[![](https://img.shields.io/badge/Live-Link-blue)](https://project-5-git-main-ayesha152.vercel.app/)
 
 ## Skills acquired 👨‍💻
 
